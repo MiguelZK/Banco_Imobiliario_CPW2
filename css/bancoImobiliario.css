@@ -15,6 +15,11 @@
   grid-template-rows: 30px 650px;
   grid-template-columns: 650px;
   grid-gap: 0rem;
+  /*
+  Para verificar sobre formato responsivo do tabuleiro:
+  https://stackoverflow.com/questions/20707519/div-square-width-size-based-on-100-height
+  Usar "vh" em height e weight e "vw" também, dependendo se a tela está landscape ou portrait
+  */
 }
 
 .colunaEsquerda{
