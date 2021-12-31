@@ -64,9 +64,9 @@
 
 .esquinaInicio{
   display:grid;
-  grid-template-rows: 1.3fr;
-  grid-template-columns: 1.3fr;
-  grid-column: 11/11;
+  /* grid-template-rows: 1.3fr; */
+  /* grid-template-columns: 1.3fr; */
+  /* grid-column: 11/11; */
   grid-row: 11/11;
 }
 .esquinaPrisao{
@@ -98,6 +98,7 @@ body {
   display: grid;
   justify-content: center;
   align-items: center;
+  text-align: center;
   /* height: 100%; */
   /* grid-template-columns: 100%; */
   /* grid-template-rows: 200px, 1fr; */
