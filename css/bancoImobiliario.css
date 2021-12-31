@@ -59,9 +59,9 @@
 
 .esquinaInicio{
   display:grid;
-  grid-template-rows: 1.3fr;
-  grid-template-columns: 1.3fr;
-  grid-column: 11/11;
+  /* grid-template-rows: 1.3fr; */
+  /* grid-template-columns: 1.3fr; */
+  /* grid-column: 11/11; */
   grid-row: 11/11;
 }
 .esquinaPrisao{
